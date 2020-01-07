@@ -1,4 +1,3 @@
-
 int rele = 2;
 int serialValor = 0;
 
